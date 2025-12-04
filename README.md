@@ -7,6 +7,9 @@ The dashboard visualizes key customer-related metrics such as purchase patterns,
 ## DashBoard
 - <a href="https://github.com/jebamercy/Customers_Analysis-dashboard/blob/main/Screenshot%202025-12-04%20115600.png">Dashboard</a>
 
+<img width="1285" height="737" alt="Screenshot 2025-12-04 115600" src="https://github.com/user-attachments/assets/5b7c2fdf-6dbb-4b23-a18f-28b1c82542b5" />
+
+
 ##📈 Dashboard Visuals & Their Purpose
 4️⃣ Unit Price by Product Description (Bar Chart)
 
@@ -51,3 +54,4 @@ Helps identify high-performing and low-performing cities.
 Shows revenue contribution by each warehouse.
 
 Helps assess warehouse performance, load, and efficiency.
+
