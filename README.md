@@ -4,6 +4,9 @@ The dashboard visualizes key customer-related metrics such as purchase patterns,
 ## Data Used
 - <a href="https://github.com/jebamercy/Customers_Analysis-dashboard/blob/main/Custemers_Data.xlsx">Customers Data</a>
 
+## DashBoard
+- <a href="https://github.com/jebamercy/Customers_Analysis-dashboard/blob/main/Screenshot%202025-12-04%20115600.png">Dashboard</a>
+
 ##📈 Dashboard Visuals & Their Purpose
 4️⃣ Unit Price by Product Description (Bar Chart)
 
